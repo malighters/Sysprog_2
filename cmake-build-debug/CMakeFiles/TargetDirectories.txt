@@ -1,0 +1,3 @@
+C:/Users/Yevhenko/CLionProjects/Sysprog_2/cmake-build-debug/CMakeFiles/Sysprog_2.dir
+C:/Users/Yevhenko/CLionProjects/Sysprog_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yevhenko/CLionProjects/Sysprog_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
