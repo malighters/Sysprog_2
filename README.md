@@ -1,7 +1,7 @@
 # Finite Automaton Analyzer
 
 
-This repository contains the implementation of a finite automaton, a fundamental concept in computer science for recognizing regular languages 📚. The implementation is available in both Python 🐍 and C 🌐.
+This repository contains the implementation of a finite automaton, a fundamental concept in computer science for recognizing regular languages. The implementation is available in C.
 
 ## Features
 - **Read Automaton from File:** Parse the finite automaton configuration from a text file.
@@ -22,7 +22,6 @@ Create a text file and define your finite automaton according to the structure d
 ```
 
 ### 2. Run the Scripts
-#### C
 Compile and run the C binding `main.c`, following the instructions prompted in the terminal.
 
 ```sh
